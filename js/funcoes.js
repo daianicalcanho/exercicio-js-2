@@ -1,2 +1,2 @@
-let resultado = 7+8*25;
+let resultado = 81 / 27;
 console.log(resultado);
